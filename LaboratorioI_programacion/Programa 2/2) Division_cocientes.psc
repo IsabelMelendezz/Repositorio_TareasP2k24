@@ -4,7 +4,7 @@ Algoritmo Division_cocientes
 	Leer a;
 	Escribir 'Ingrese su segundo numero (Divisor)';
 	Leer b;
-	Mientras b=0 Hacer
+	Mientras b==0 Hacer
 		Escribir 'ERROR, recuerde que no se puede dividir entre 0, ingrese otro número:';
 		Leer b;
 	FinMientras

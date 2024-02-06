@@ -50,7 +50,7 @@ Algoritmo Calculadora
 		Fin Segun
 		escribir "¿Desea continuar en nuestra calculadora? 1=SI | 0=NO";
 		leer continuar;
-		si continuar=1 Entonces
+		si continuar==1 Entonces
 			Borrar Pantalla;
 			Escribir "----------Bienvenido------------";
 			Escribir"Le presentamos nuestras opciones";
@@ -59,7 +59,7 @@ Algoritmo Calculadora
 			Escribir "3) Multiplicar";
 			Escribir "4) Dividir";
 		FinSi
-		si continuar=0 Entonces
+		si continuar==0 Entonces
 			Escribir "Gracias por preferirnos";
 		FinSi
 	Fin Mientras

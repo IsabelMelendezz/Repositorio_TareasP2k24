@@ -6,7 +6,7 @@ Algoritmo pos_neg_neutro
 	Escribir "Ingrese su segundo valor";
 	leer b;
 	sum=a+b;
-	si sum=0 Entonces
+	si sum==0 Entonces
 		Escribir "La suma de sus valores es: ", sum, " (NEUTRA)";
 	FinSi
 	si sum >0 Entonces

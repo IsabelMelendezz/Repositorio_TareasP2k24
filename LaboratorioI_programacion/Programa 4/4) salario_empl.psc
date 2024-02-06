@@ -24,13 +24,13 @@ Algoritmo salario_empl
 			Leer horas_ext;
 			Escribir '¿Tiene algun bono de trabajador (SI/NO)? ';
 			Leer bono;
-			Si bono='Si' O bono='si' O bono='sI' O bono='SI' Entonces
+			Si bono=='Si' O bono=='si' O bono=='sI' O bono=='SI' Entonces
 				Escribir '¿De cuanto es el valor del bono?';
 				Leer cant_bono;
 				total_extras <- ((horas+horas_ext)*tar)+cant_bono;
 				Escribir 'Su salario Semanal con bonos y horas extras es de: Q. ', total_extras;
 			FinSi
-			Si bono='No' O bono='NO' O bono='no' O bono='nO' Entonces
+			Si bono=='No' O bono=='NO' O bono=='no' O bono=='nO' Entonces
 				total_extras <- (horas+horas_ext)*tar;
 				Escribir 'Su salario Semanal, UNICAMENTE con horas extras es de: Q. ', total_extras;
 			FinSi
