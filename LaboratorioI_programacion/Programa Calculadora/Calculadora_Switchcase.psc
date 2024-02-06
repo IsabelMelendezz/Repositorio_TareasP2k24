@@ -37,7 +37,7 @@ Algoritmo Calculadora
 				Escribir "Ingrese su segundo valor";
 				leer b;
 				
-				Mientras b=0 Hacer
+				Mientras b==0 Hacer
 				Escribir  "Error, no se puede dividir por 0 un numero, ingrese otro:";
 				leer b;
 				Fin Mientras
