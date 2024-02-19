@@ -1,0 +1,19 @@
+Algoritmo Calculadora_comisiones
+	// Definicion de variables
+	salario, x es entero;
+	bono, ventas, salarioRecibir es numerico;
+	//Asignacion de variables
+	salario=200;
+	ventas=0;
+	bono=0;
+	x=1;
+	Mientras x<>-1 Hacer
+		Escribir "Introduzca las ventas en dolares: "; 
+		Leer ventas;
+		salarioRecibir= salario+(ventas*0.09);
+		Escribir "El salario es: $", salarioRecibir;
+		Escribir "¿Desea continuar? (-1= NO | 0= SI)";
+		Leer x;
+	Fin Mientras
+	
+FinAlgoritmo

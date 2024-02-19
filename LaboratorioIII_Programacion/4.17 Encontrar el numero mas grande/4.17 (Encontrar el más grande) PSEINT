@@ -1,0 +1,17 @@
+Algoritmo encontrar_mayor 
+	//Declarar variables
+	contador, numero1, mayor1 es entero;
+	//Asignar variables
+	contador=1;
+	mayor1=0;
+	//proceso logico
+	Mientras contador<=10 Hacer
+		Escribir  "Ingrese su numero:";
+		Leer numero1;
+		Si numero1>mayor1 Entonces
+			mayor1=numero1;
+		Fin Si
+	contador=contador+1;
+	Fin Mientras
+	Escribir "El numero mayor es: ", mayor1;
+FinAlgoritmo

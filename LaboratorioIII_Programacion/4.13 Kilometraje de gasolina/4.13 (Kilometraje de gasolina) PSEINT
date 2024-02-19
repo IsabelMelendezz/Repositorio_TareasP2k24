@@ -1,0 +1,26 @@
+Algoritmo kilometraje
+	//definicion de variables 
+	kmUsados, totalkm,kpl,totalkpl es numerico;
+	litros,totalLitros es numerico;
+	x es entero;
+	//Asignacion de variable (Como son acumuladores)
+	totalkm=0;
+	totalLitros=0;
+	x=1;
+	Mientras x<>-1 Hacer
+		Escribir "Bienvenido a nuestra calculadora de kilometros!";
+		Escribir "Escriba los kilometros usados:";
+		Leer kmUsados;
+		totalkm=totalkm+kmUsados;
+		Escribir  "Escriba los litros:";
+		Leer litros;
+		totalLitros=totalLitros+litros;
+		kpl=kmUsados/litros;
+		totalkpl=totalkm/totalLitros;
+		Escribir "KPL en este reabastecimiento:",kpl;
+		Escribir "Total KPL:", totalkpl;
+		Escribir "¿Desea continuar? (-1= NO | 0= SI)";
+		Leer x;
+	Fin Mientras
+	
+FinAlgoritmo
