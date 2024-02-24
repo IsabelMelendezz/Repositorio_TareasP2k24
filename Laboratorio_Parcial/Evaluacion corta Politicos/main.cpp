@@ -38,7 +38,7 @@ void llamaCiclo()
     char opcion;
     bool repetir = true;
 
-    char candidatos[NUMERO_CANDIDATOS][MAXIMA_LONGITUD_CADENA] = {"Luis", "Carlos", "Andre", "Juan", "Jonathan"};
+    char candidatos[NUMERO_CANDIDATOS][MAXIMA_LONGITUD_CADENA] = {"Luis", "Oscar", "Andre", "Juan", "Jonathan"};
     do
     {
         llenarMatriz(matriz_ronda1);
