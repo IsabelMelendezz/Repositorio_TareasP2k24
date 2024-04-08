@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1712600547 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\archivos de progra ii\programacionp2kii\laboratorio ( encabezado e implementacion )\laboratorio encabezado e implementacion\src\notas facultad.cpp
+	"Notas facultad.h"
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+
+1712600547 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\archivos de progra ii\programacionp2kii\laboratorio ( encabezado e implementacion )\laboratorio encabezado e implementacion\include\notas facultad.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+
+1712616393 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\archivos de progra ii\programacionp2kii\laboratorio ( encabezado e implementacion )\laboratorio encabezado e implementacion\main.cpp
+	<iostream>
+	"Notas facultad.h"
+
+1712616393 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\archivos de progra ii\programacionp2kii\laboratorio ( encabezado e implementacion )\main.cpp
+	<iostream>
+	"Notas facultad.h"
+

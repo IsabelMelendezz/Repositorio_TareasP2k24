@@ -36,3 +36,40 @@
 	"Juego.h"
 	"Config.h"
 
+1712365358 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\archivos de progra ii\programacionp2kii\juegos\juego buscaminas\juego buscaminas\main.cpp
+	<iostream>
+	<unistd.h>
+	"Juego.h"
+	"Config.h"
+
+1712367312 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\archivos de progra ii\programacionp2kii\juegos\juego buscaminas\juego buscaminas\include\juego.h
+	"Tablero.h"
+
+1712364161 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\archivos de progra ii\programacionp2kii\juegos\juego buscaminas\juego buscaminas\include\tablero.h
+	<iostream>
+	<vector>
+	"Celda.h"
+
+1712367312 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\archivos de progra ii\programacionp2kii\juegos\juego buscaminas\juego buscaminas\include\celda.h
+
+1712367312 c:\users\melen\onedrive\escritorio\1er semestre umg 2024\archivos de progra ii\programacionp2kii\juegos\juego buscaminas\juego buscaminas\include\config.h
+
+1712364245 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\archivos de progra ii\programacionp2kii\juegos\juego buscaminas\juego buscaminas\src\celda.cpp
+	"Celda.h"
+	<iostream>
+
+1712364434 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\archivos de progra ii\programacionp2kii\juegos\juego buscaminas\juego buscaminas\src\config.cpp
+	"config.h"
+	<iostream>
+	<unistd.h>
+
+1712365608 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\archivos de progra ii\programacionp2kii\juegos\juego buscaminas\juego buscaminas\src\juego.cpp
+	"Juego.h"
+	<fstream>
+	<unistd.h>
+
+1712367312 source:c:\users\melen\onedrive\escritorio\1er semestre umg 2024\archivos de progra ii\programacionp2kii\juegos\juego buscaminas\juego buscaminas\src\tablero.cpp
+	"Tablero.h"
+	<sstream>
+	<iostream>
+
