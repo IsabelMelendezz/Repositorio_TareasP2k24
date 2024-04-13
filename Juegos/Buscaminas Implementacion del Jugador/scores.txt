@@ -1,0 +1,4 @@
+Allan		Score: 0
+Isabel		Score: 0
+Dani		Score: 5
+Pedro		Score: 12
